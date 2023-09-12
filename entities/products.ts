@@ -1,3 +1,3 @@
-class products {
-    
+class Products {
+
 }
